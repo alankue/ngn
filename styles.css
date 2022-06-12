@@ -1,8 +1,13 @@
 body {
-    background-image: url(https://github.com/alankue/ngn/blob/main/NGN.jpeg);
+    background-image: url("NGN.jpeg");
   }
   
   h1, h2, p {
     text-align: center;
   }
-  
+  .contact {
+    width: 40%;
+    background-color: ;
+    margin-left: auto;
+    margin-right: auto;
+  }
