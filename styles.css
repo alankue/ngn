@@ -12,6 +12,7 @@
   
   h2 {
     font-size: 30px;
+    margin-bottom: 15px;
   }
   
   .established {
@@ -23,7 +24,7 @@
   }
   
   .contact {
-    width: 50%;
+    width: 80%;
     background-color: #bab7b0;
     margin-left: auto;
     margin-right: auto;
