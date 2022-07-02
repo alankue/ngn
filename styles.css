@@ -1,9 +1,21 @@
-  body {
+body {
     background-image: url("background.png");
     font-family: sans-serif;
     padding: 20px;
   }
-  
+
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }  
+
+  #logo {
+    width: max(100px, 18vw);
+    aspect-ratio: 3 / 1;
+    padding: 0.4rem;
+    }  
+    
   h1 {
     font-size: 40px;
     margin-top: 0;
@@ -32,12 +44,6 @@
     max-width: 500px;
   }
   
-  img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }  
-
   hr {
     height: 2px;
     background-color: green;
